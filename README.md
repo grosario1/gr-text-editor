@@ -45,6 +45,8 @@ You can find code repo [here.](https://github.com/grosario1/gr-text-editor)
 - Module 18 examples
 - JavaScript
 - npm package manager - https://docs.npmjs.com/cli/v8/commands/npm-install
+- PWA - https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/Installing
+
 
 ## Contributing
 The project is open for contributions. If you would like to contribute, create a new branch from the main and add any updates as deemed necessary. If you should find any issues with the code, please open a 'New Issue' from https://github.com/grosario1/gr-text-editor/issues and these request can be review and updated accordingly.
