@@ -33,7 +33,8 @@ First you should clone this repo (https://github.com/grosario1/gr-text-editor). 
 
 - **Step #6:** From directory where you cloned the repo, run `npm run build` &&  `npm run start:dev` from the command line to start the npm app and the app will start listening in your localhost on port 3001.
 
-- You can view application in the following url:
+
+You can view application in the following url:
 https://gilrosario-text-editor-f49ddd3fc1b8.herokuapp.com/
 
 
