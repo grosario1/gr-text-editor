@@ -1,4 +1,4 @@
-Sample project
+Text Editor Sample project
 
 # gr-text-editor
 ## Description
