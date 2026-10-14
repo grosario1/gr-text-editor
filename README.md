@@ -1,3 +1,5 @@
+Sample project
+
 # gr-text-editor
 ## Description
 
